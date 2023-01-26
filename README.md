@@ -1,6 +1,6 @@
-# Lucas Heitkamp
+# Lucas 
 ## All about me😄
-#### Hey there, My name is Lucas and I am a student at acs. I'm from the netherlands but I live in Jordan. I am in 9th grade and this is my first ever computer science course. I love learning new things and skills. Computer looks really hard to learn but I like a good challenge 
+#### Hey there, My name is Lucas and I am a student at acs. I'm from the netherlands but I live in Jordan. I am in 9th grade and this is my first ever computer science course. I love learning new things and skills and Computer science looks really hard to learn but I like a good challenge. 
 <!--
 **Lucasheitkamp/Lucasheitkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
