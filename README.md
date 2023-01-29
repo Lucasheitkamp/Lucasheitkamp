@@ -9,6 +9,8 @@
 `3. Then click preview and you should see the text in your readme file.`
 
 > This is a blockquote
+
+---
 [Click me!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
