@@ -14,7 +14,7 @@
 [Click me!](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 
-![alt text](https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif "Logo Title Text 1")
+![alt text](cat-computer.gif)
 
 | table with        | random| ✨numbers✨  |
 | ------------- |:-------------:| -----:|
